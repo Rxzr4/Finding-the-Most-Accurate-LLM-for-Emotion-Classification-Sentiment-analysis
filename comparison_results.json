@@ -1,0 +1,32 @@
+[
+  {
+    "name": "LLaMA 3.1 8B",
+    "provider": "groq",
+    "model_id": "llama-3.1-8b-instant",
+    "api_key": "",
+    "accuracy": 30.208333333333332,
+    "correct": 29,
+    "total": 100,
+    "errors": 4
+  },
+  {
+    "name": "LLaMA 3.3 70B",
+    "provider": "groq",
+    "model_id": "llama-3.3-70b-versatile",
+    "api_key": "",
+    "accuracy": 31.25,
+    "correct": 30,
+    "total": 100,
+    "errors": 4
+  },
+  {
+    "name": "Trinity Large",
+    "provider": "openrouter",
+    "model_id": "arcee-ai/trinity-large-preview:free",
+    "api_key": "",
+    "accuracy": 31.428571428571427,
+    "correct": 11,
+    "total": 100,
+    "errors": 65
+  }
+]
